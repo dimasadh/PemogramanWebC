@@ -1,0 +1,78 @@
+body {
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+#profile{
+    background-color: #f0f0f0;
+    color: black;
+}
+
+#homepage{
+    background-image: url("Assets/page-bg.jpg");
+    color: antiquewhite;
+}
+  
+#main{
+    padding: 15em;
+}
+
+.page{
+    margin: 100px 200px;
+    padding: auto;
+}
+
+.page-tourist{
+    margin: 50px 500px;
+    padding: auto;
+}
+
+nav{
+    text-align: center;
+    background-color: #252934;
+    padding: 8px;
+}
+
+nav a{
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    margin: 10px 30px 10px 30px;
+}
+
+nav a:hover{
+    font-size: 18px;
+    color: #e21b6d;
+    background-color:#dad8d9;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.paragraph{
+    font-family: proxima-nova;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 19px;
+    letter-spacing: 0em;
+    line-height: 2em;
+    text-transform: none;
+    text-align: justify;
+}
+
+.kiri{
+    width: 600px;
+    float: left;
+    margin-right: 20px;
+}
+.kanan{
+    width: 600px;
+    float: right;
+    margin-left: 20px;
+}
+.box{
+    width: auto;
+    height: 400px;
+    margin-bottom: 50px;
+}
